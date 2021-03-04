@@ -1,4 +1,6 @@
-# MRC2018 Evaluation Metrics with Bounce
+# MRC Evaluation Metrics from Baidu DuReader
+百度提供的是Python2版本的，在此基础上修改成了Python3版本的，方便后续使用。
+
 ## Metric Details
 Please refer to 
 > Evaluation Metrics.docx
